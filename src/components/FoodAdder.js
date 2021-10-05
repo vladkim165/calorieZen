@@ -1,25 +1,25 @@
 import React from 'react';
 import './FoodAdder.css';
 
-const FoodList = []
-
 class FoodAdder extends React.Component {
   constructor(props) {
     super(props);
-    this.state = FoodList
+    this.state = {
+      foodList: []
+    };
   }
-  
+
   handleSubmit = () => {
-    
+
   }
-  
+
   render() {
-      return (
-    <form className="food-adder">
-      <input type="text" placeholder="Добавьте продукты" />
-      <button className="food-adder__submit"></button>
-    </form>
-  );
+    return (
+      <form className="food-adder">
+        <input type="text" placeholder="Добавьте продукты" />
+        <button className="food-adder__submit"></button>
+      </form>
+    );
   }
 }
 
