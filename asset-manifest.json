@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/vladkim165.github.io/caloriezen/static/css/main.4f64443a.chunk.css",
-    "main.js": "/vladkim165.github.io/caloriezen/static/js/main.e87e955a.chunk.js",
-    "main.js.map": "/vladkim165.github.io/caloriezen/static/js/main.e87e955a.chunk.js.map",
-    "runtime-main.js": "/vladkim165.github.io/caloriezen/static/js/runtime-main.55ade8ea.js",
-    "runtime-main.js.map": "/vladkim165.github.io/caloriezen/static/js/runtime-main.55ade8ea.js.map",
-    "static/js/2.11d5c84a.chunk.js": "/vladkim165.github.io/caloriezen/static/js/2.11d5c84a.chunk.js",
-    "static/js/2.11d5c84a.chunk.js.map": "/vladkim165.github.io/caloriezen/static/js/2.11d5c84a.chunk.js.map",
-    "static/js/3.614fb4ae.chunk.js": "/vladkim165.github.io/caloriezen/static/js/3.614fb4ae.chunk.js",
-    "static/js/3.614fb4ae.chunk.js.map": "/vladkim165.github.io/caloriezen/static/js/3.614fb4ae.chunk.js.map",
-    "index.html": "/vladkim165.github.io/caloriezen/index.html",
-    "static/css/main.4f64443a.chunk.css.map": "/vladkim165.github.io/caloriezen/static/css/main.4f64443a.chunk.css.map",
-    "static/js/2.11d5c84a.chunk.js.LICENSE.txt": "/vladkim165.github.io/caloriezen/static/js/2.11d5c84a.chunk.js.LICENSE.txt",
-    "static/media/Tips.css": "/vladkim165.github.io/caloriezen/static/media/roboto.59d18e16.woff",
-    "static/media/Diary.css": "/vladkim165.github.io/caloriezen/static/media/sumana.9597fc34.woff"
+    "main.css": "/calorieZen/static/css/main.4d4379bb.chunk.css",
+    "main.js": "/calorieZen/static/js/main.e87e955a.chunk.js",
+    "main.js.map": "/calorieZen/static/js/main.e87e955a.chunk.js.map",
+    "runtime-main.js": "/calorieZen/static/js/runtime-main.fa35a251.js",
+    "runtime-main.js.map": "/calorieZen/static/js/runtime-main.fa35a251.js.map",
+    "static/js/2.11d5c84a.chunk.js": "/calorieZen/static/js/2.11d5c84a.chunk.js",
+    "static/js/2.11d5c84a.chunk.js.map": "/calorieZen/static/js/2.11d5c84a.chunk.js.map",
+    "static/js/3.614fb4ae.chunk.js": "/calorieZen/static/js/3.614fb4ae.chunk.js",
+    "static/js/3.614fb4ae.chunk.js.map": "/calorieZen/static/js/3.614fb4ae.chunk.js.map",
+    "index.html": "/calorieZen/index.html",
+    "static/css/main.4d4379bb.chunk.css.map": "/calorieZen/static/css/main.4d4379bb.chunk.css.map",
+    "static/js/2.11d5c84a.chunk.js.LICENSE.txt": "/calorieZen/static/js/2.11d5c84a.chunk.js.LICENSE.txt",
+    "static/media/Tips.css": "/calorieZen/static/media/roboto.59d18e16.woff",
+    "static/media/Diary.css": "/calorieZen/static/media/sumana.9597fc34.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.55ade8ea.js",
+    "static/js/runtime-main.fa35a251.js",
     "static/js/2.11d5c84a.chunk.js",
-    "static/css/main.4f64443a.chunk.css",
+    "static/css/main.4d4379bb.chunk.css",
     "static/js/main.e87e955a.chunk.js"
   ]
 }
