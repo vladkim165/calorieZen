@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/calorieZen/static/css/main.580a8e33.chunk.css",
-    "main.js": "/calorieZen/static/js/main.b0266a8b.chunk.js",
-    "main.js.map": "/calorieZen/static/js/main.b0266a8b.chunk.js.map",
+    "main.js": "/calorieZen/static/js/main.979de3ee.chunk.js",
+    "main.js.map": "/calorieZen/static/js/main.979de3ee.chunk.js.map",
     "runtime-main.js": "/calorieZen/static/js/runtime-main.1f18df36.js",
     "runtime-main.js.map": "/calorieZen/static/js/runtime-main.1f18df36.js.map",
     "static/js/2.cab39293.chunk.js": "/calorieZen/static/js/2.cab39293.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1f18df36.js",
     "static/js/2.cab39293.chunk.js",
     "static/css/main.580a8e33.chunk.css",
-    "static/js/main.b0266a8b.chunk.js"
+    "static/js/main.979de3ee.chunk.js"
   ]
 }
