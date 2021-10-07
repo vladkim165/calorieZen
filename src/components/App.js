@@ -14,7 +14,7 @@ function App() {
       <main className="content">
         <NavBar />
         <Switch>
-          <Route exact path="/calorie-zen">
+          <Route exact path={"/calorie-zen/"}>
             <Diary />
           </Route>
           <Route path="/tips">
