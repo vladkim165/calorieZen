@@ -1,5 +1,5 @@
 import React from 'react';
-import './FoodAdder.css';
+import './styles/FoodAdder.css';
 
 class FoodAdder extends React.Component {
   constructor(props) {
@@ -16,23 +16,24 @@ class FoodAdder extends React.Component {
     this.setState({
       [e.target.name]: e.target.value
     })
-
   }
 
   handleSubmit = (e) => {
     e.preventDefault();
 
-    this.setState({food: '', calories: ''});
+    this.setState({
+      food: '',
+      calories: ''
+    })
     
     this.props.handleSubmit(this.state.food, this.state.calories);
   }
 
   render() {
-
     return (
-      <form className="food-adder" onSubmit={this.handleSubmit}>
-        <input name="food" value={this.state.food} type="text" required placeholder="Добавьте продукты" onChange={this.handleChange} />
-        <input name="calories" value={this.state.calories} type="number" required placeholder="Калории" onChange={this.handleChange} />
+      <form onSubmit={this.handleSubmit} className="food-adder">
+        <input onChange={this.handleChange} name="food" value={this.state.food} type="text" required placeholder="Добавьте продукты" />
+        <input onChange={this.handleChange} name="calories" value={this.state.calories} type="number" required placeholder="Калории" />
         <button className="food-adder__submit"></button>
       </form>
     );
